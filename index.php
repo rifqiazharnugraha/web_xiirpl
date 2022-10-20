@@ -7,5 +7,8 @@
 </head>
 <body>
 	<h1>Hello World!</h1>
+	<h2>Selamat Datang di Situs Resmi XII RPL</h2>
+
+	<p>Silakan tinggalkan kesan disini!</p>
 </body>
 </html>
